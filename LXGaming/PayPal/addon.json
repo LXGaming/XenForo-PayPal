@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "LXGaming - PayPal",
+    "description": "",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "LX_Gaming",
+    "dev_url": "https://github.com/LXGaming/XenForo-PayPal",
+    "faq_url": "https://github.com/LXGaming/XenForo-PayPal/wiki",
+    "support_url": "https://github.com/LXGaming/XenForo-PayPal/issues",
+    "extra_urls": [],
+    "require": [],
+    "icon": "logo.png"
+}
